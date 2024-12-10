@@ -1,4 +1,4 @@
-# Dakshesh J. Kapadiya
+# Dakshesh Kapadiya
 
 👋 Hi there! I’m Dakshesh, a **Junior Web Developer** with hands-on experience in building and maintaining web applications. Passionate about solving problems, crafting user-friendly interfaces, and writing clean, maintainable code.
 
