@@ -1,9 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
 # Dakshesh J. Kapadiya
 
 👋 Hi there! I’m Dakshesh, a **Junior Web Developer** with hands-on experience in building and maintaining web applications. Passionate about solving problems, crafting user-friendly interfaces, and writing clean, maintainable code.
